@@ -1,0 +1,13 @@
+
+{
+  "name": "rcchain-listener",
+  "version": "1.0.0",
+  "description": "Listener script for RCchain blockchain transactions",
+  "main": "listener.js",
+  "scripts": {
+    "start": "node listener.js"
+  },
+  "dependencies": {
+    "ethers": "^6.0.0"
+  }
+}
