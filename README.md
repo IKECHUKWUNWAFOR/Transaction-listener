@@ -1,3 +1,3 @@
-This is the the property of RCrecords a decentralezed recordlabel running on its own chain. we areabout mjusic distribution,promotion concert etc
-thisisprivateproperty
+This is the the property of RCrecords a decentralized west African record label running on its own chain. we are about music, management ,distribution,promotion concert , artist development etc
+this is private property
 
